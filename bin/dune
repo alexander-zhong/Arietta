@@ -1,0 +1,5 @@
+; Uncomment once bin/main.ml exists.
+;
+; (executable
+;  (name main)
+;  (libraries arietta))

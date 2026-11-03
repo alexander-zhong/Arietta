@@ -1,0 +1,3 @@
+(library
+ (name arietta)
+ (public_name arietta))
