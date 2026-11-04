@@ -1,5 +1,3 @@
-; Uncomment once bin/main.ml exists.
-;
-; (executable
-;  (name main)
-;  (libraries arietta))
+(executable
+ (name main)
+ (libraries arietta threads.posix))
