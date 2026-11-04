@@ -1,6 +1,6 @@
 # arietta
 
-*a little aria* — a total-order message log for state machine replication, in OCaml.
+* INSPIRED BY Aria from Jane Street* — a total-order message log for state machine replication, in OCaml.
 
 > **Status: pre-alpha.** The in-memory log works. Nothing is networked or
 > persisted yet. Not usable for anything real.
